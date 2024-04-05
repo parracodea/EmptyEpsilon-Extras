@@ -86,12 +86,12 @@
     },
     "ENGINEERING_COOLANT_DECREASE": {
         "key": [
-            "Right"
+            "-"
         ]
     },
     "ENGINEERING_COOLANT_INCREASE": {
         "key": [
-            "Left"
+            "="
         ]
     },
     "ENGINEERING_POWER_000": {
@@ -105,7 +105,7 @@
     },
     "ENGINEERING_POWER_100": {
         "key": [
-            "Space"
+            "\\"
         ]
     },
     "ENGINEERING_POWER_150": {
@@ -122,37 +122,37 @@
     },
     "ENGINEERING_POWER_DECREASE": {
         "key": [
-            "Down"
+            "["
         ]
     },
     "ENGINEERING_POWER_INCREASE": {
         "key": [
-            "Up"
+            "]"
         ]
     },
     "ENGINEERING_REPAIR_CREW_DOWN": {
         "key": [
-            "S"
+            "Down"
         ]
     },
     "ENGINEERING_REPAIR_CREW_LEFT": {
         "key": [
-            "A"
+            "Left"
         ]
     },
     "ENGINEERING_REPAIR_CREW_NEXT": {
         "key": [
-            "Q"
+            "C"
         ]
     },
     "ENGINEERING_REPAIR_CREW_RIGHT": {
         "key": [
-            "D"
+            "Right"
         ]
     },
     "ENGINEERING_REPAIR_CREW_UP": {
         "key": [
-            "W"
+            "Up"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_BEAM_WEAPONS": {
