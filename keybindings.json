@@ -535,7 +535,7 @@
     },
     "WEAPONS_AIM_LEFT": {
         "key": [
-            "G"
+            ","
         ]
     },
     "WEAPONS_AIM_LOCK_DISABLE": {
@@ -545,15 +545,19 @@
         "key": null
     },
     "WEAPONS_AIM_LOCK_TOGGLE": {
-        "key": null
+        "key": [
+        "/"
+      ]
     },
     "WEAPONS_AIM_RIGHT": {
         "key": [
-            "H"
+            "."
         ]
     },
     "WEAPONS_FIRE_TUBE1": {
-        "key": null
+        "key": [
+        "1"
+      ]
     },
     "WEAPONS_FIRE_TUBE10": {
         "key": null
@@ -577,41 +581,59 @@
         "key": null
     },
     "WEAPONS_FIRE_TUBE2": {
-        "key": null
+        "key": [
+        "2"
+      ]
     },
     "WEAPONS_FIRE_TUBE3": {
-        "key": null
+        "key": [
+        "3"
+      ]
     },
     "WEAPONS_FIRE_TUBE4": {
-        "key": null
+        "key": [
+        "4"
+      ]
     },
     "WEAPONS_FIRE_TUBE5": {
-        "key": null
+        "key": [
+        "5"
+      ]
     },
     "WEAPONS_FIRE_TUBE6": {
-        "key": null
+        "key": [
+        "6"
+      ]
     },
     "WEAPONS_FIRE_TUBE7": {
-        "key": null
+        "key": [
+        "7"
+      ]
     },
     "WEAPONS_FIRE_TUBE8": {
-        "key": null
+        "key": [
+        "8"
+      ]
     },
     "WEAPONS_FIRE_TUBE9": {
-        "key": null
+        "key": [
+        "9"
+      ]
     },
     "WEAPONS_FREQUENCY_DECREASE": {
         "key": [
-            "N"
+            "-"
         ]
     },
     "WEAPONS_FREQUENCY_INCREASE": {
         "key": [
-            "M"
+            "="
         ]
     },
     "WEAPONS_LOAD_TUBE1": {
-        "key": null
+        "key": [
+        "1"
+      ]
     },
     "WEAPONS_LOAD_TUBE10": {
         "key": null
@@ -635,52 +657,68 @@
         "key": null
     },
     "WEAPONS_LOAD_TUBE2": {
-        "key": null
+        "key": [
+        "2"
+      ]
     },
     "WEAPONS_LOAD_TUBE3": {
-        "key": null
+        "key": [
+        "3"
+      ]
     },
     "WEAPONS_LOAD_TUBE4": {
-        "key": null
+        "key": [
+        "4"
+      ]
     },
     "WEAPONS_LOAD_TUBE5": {
-        "key": null
+        "key": [
+        "5"
+      ]
     },
     "WEAPONS_LOAD_TUBE6": {
-        "key": null
+        "key": [
+        "6"
+      ]
     },
     "WEAPONS_LOAD_TUBE7": {
-        "key": null
+        "key": [
+        "7"
+      ]
     },
     "WEAPONS_LOAD_TUBE8": {
-        "key": null
+        "key": [
+        "8"
+      ]
     },
     "WEAPONS_LOAD_TUBE9": {
-        "key": null
+        "key": [
+        "9"
+      ]
     },
     "WEAPONS_SELECT_EMP": {
         "key": [
-            "4"
+            "E"
         ]
     },
     "WEAPONS_SELECT_HOMING": {
         "key": [
-            "1"
+            "H"
         ]
     },
     "WEAPONS_SELECT_HVLI": {
         "key": [
-            "5"
+            "L"
         ]
     },
     "WEAPONS_SELECT_MINE": {
         "key": [
-            "3"
+            "M"
         ]
     },
     "WEAPONS_SELECT_NUKE": {
         "key": [
-            "2"
+            "N"
         ]
     },
     "WEAPONS_SHIELDS_DISABLE": {
@@ -695,13 +733,19 @@
         ]
     },
     "WEAPONS_SHIELD_CALIBRATION_DECREASE": {
-        "key": null
+        "key": [
+        "["
+      ]
     },
     "WEAPONS_SHIELD_CALIBRATION_INCREASE": {
-        "key": null
+        "key": [
+        "]"
+      ]
     },
     "WEAPONS_SHIELD_CALIBRATION_START": {
-        "key": null
+        "key": [
+        "\\"
+      ]
     },
     "WEAPONS_SUBSYSTEM_TARGET_NEXT": {
         "key": null
@@ -711,12 +755,12 @@
     },
     "WEAPONS_TARGET_NEXT": {
         "key": [
-            "Z"
+            "Y"
         ]
     },
     "WEAPONS_TARGET_NEXT_ENEMY": {
         "key": [
-            "C"
+            "T"
         ]
     },
     "WEAPONS_UNLOAD_TUBE1": {
