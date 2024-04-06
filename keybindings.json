@@ -16,6 +16,7 @@
     },
     "CINEMATIC_MOVE_DOWN": {
         "key": [
+            "Q",
             "F"
         ]
     },
@@ -26,17 +27,18 @@
     },
     "CINEMATIC_MOVE_UP": {
         "key": [
-            "R"
+            "E",
+            "G"
         ]
     },
     "CINEMATIC_NEXT_PLAYER_SHIP": {
         "key": [
-            "K"
+            "T"
         ]
     },
     "CINEMATIC_PREVIOUS_PLAYER_SHIP": {
         "key": [
-            "J"
+            "R"
         ]
     },
     "CINEMATIC_STRAFE_LEFT": {
@@ -81,35 +83,46 @@
     },
     "DEBUG_SHOW_TIMING": {
         "key": [
-            "F11"
+            "F9"
         ]
     },
     "ENGINEERING_COOLANT_DECREASE": {
         "key": [
-            "-"
+            "-",
+            "PageDown",
+            ";"
         ]
     },
     "ENGINEERING_COOLANT_INCREASE": {
         "key": [
-            "="
+            "=",
+            "PageUp",
+            "'"
         ]
     },
     "ENGINEERING_POWER_000": {
         "key": null
     },
     "ENGINEERING_POWER_030": {
-        "key": null
+        "key": [
+            ",",
+            "End"
+        ]
     },
     "ENGINEERING_POWER_050": {
         "key": null
     },
     "ENGINEERING_POWER_100": {
         "key": [
+            "Home",
+            ".",
             "\\"
         ]
     },
     "ENGINEERING_POWER_150": {
-        "key": null
+        "key": [
+            "/"
+        ]
     },
     "ENGINEERING_POWER_200": {
         "key": null
@@ -122,12 +135,14 @@
     },
     "ENGINEERING_POWER_DECREASE": {
         "key": [
-            "["
+            "[",
+            "Delete"
         ]
     },
     "ENGINEERING_POWER_INCREASE": {
         "key": [
-            "]"
+            "]",
+            "Insert"
         ]
     },
     "ENGINEERING_REPAIR_CREW_DOWN": {
@@ -157,46 +172,58 @@
     },
     "ENGINEERING_SELECT_SYSTEM_BEAM_WEAPONS": {
         "key": [
+            "B",
             "2"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_FRONT_SHIELD": {
         "key": [
+            "F",
             "8"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_IMPULSE": {
         "key": [
+            "I",
             "5"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_JUMP_DRIVE": {
         "key": [
+            "J",
             "7"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_MANEUVERING": {
         "key": [
+            "M",
+            "O",
             "4"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_MISSILE": {
         "key": [
+            "N",
+            "H",
             "3"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_REACTOR": {
         "key": [
+            "R",
             "1"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_READ_SHIELD": {
         "key": [
+            "D",
+            "G",
             "9"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_WARP": {
         "key": [
+            "W",
             "6"
         ]
     },
@@ -212,16 +239,17 @@
     "ESCAPE": {
         "key": [
             "Escape",
-            "Home",
-            "Keypad 7",
             "AC Back"
         ]
     },
     "FULLSCREEN": {
-        "key": null
+        "key": [
+            "F11"
+        ]
     },
     "GM_CLIPBOARD_COPY": {
         "key": [
+            "Insert",
             "F5"
         ]
     },
@@ -231,13 +259,19 @@
         ]
     },
     "HELMS_COMBAT_BOOST": {
-        "key": null
+        "key": [
+            "I"
+        ]
     },
     "HELMS_COMBAT_LEFT": {
-        "key": null
+        "key": [
+            "J"
+        ]
     },
     "HELMS_COMBAT_RIGHT": {
-        "key": null
+        "key": [
+            "L"
+        ]
     },
     "HELMS_DOCK_ABORT": {
         "key": null
@@ -273,14 +307,20 @@
         "key": null
     },
     "HELMS_IMPULSE_MAX": {
-        "key": null
+        "key": [
+            "B",
+            "Home"
+        ]
     },
     "HELMS_IMPULSE_MIN": {
-        "key": null
+        "key": [
+            "C"
+        ]
     },
     "HELMS_IMPULSE_ZERO": {
         "key": [
-            "Space"
+            "V",
+            "End"
         ]
     },
     "HELMS_JUMP_DECREASE": {
@@ -312,39 +352,33 @@
         "key": null
     },
     "HELMS_WARP0": {
-        "key": [
-            "6"
-        ]
+        "key": null
     },
     "HELMS_WARP1": {
-        "key": [
-            "7"
-        ]
+        "key": null
     },
     "HELMS_WARP2": {
-        "key": [
-            "8"
-        ]
+        "key": null
     },
     "HELMS_WARP3": {
-        "key": [
-            "9"
-        ]
+        "key": null
     },
     "HELMS_WARP4": {
-        "key": [
-            "0"
-        ]
+        "key": null
     },
     "HELMS_WARP_DECREASE": {
-        "key": null
+        "key": [
+            "Q"
+        ]
     },
     "HELMS_WARP_INCREASE": {
-        "key": null
+        "key": [
+            "W"
+        ]
     },
     "HELP": {
         "key": [
-            "F1"
+            "F12"
         ]
     },
     "MAINSCREEN_BACK": {
@@ -369,7 +403,7 @@
     },
     "MAINSCREEN_LONG_RANGE": {
         "key": [
-            "Q"
+            "Y"
         ]
     },
     "MAINSCREEN_RIGHT": {
@@ -379,7 +413,7 @@
     },
     "MAINSCREEN_TACTICAL": {
         "key": [
-            "Tab"
+            "R"
         ]
     },
     "MAINSCREEN_TARGET": {
@@ -393,13 +427,19 @@
         ]
     },
     "RELAY_ALERT_NONE": {
-        "key": null
+        "key": [
+            "1"
+        ]
     },
     "RELAY_ALERT_RED": {
-        "key": null
+        "key": [
+            "3"
+        ]
     },
     "RELAY_ALERT_YELLOW": {
-        "key": null
+        "key": [
+            "2"
+        ]
     },
     "SCIENCE_SCAN_OBJECT": {
         "key": [
@@ -408,7 +448,7 @@
     },
     "SCIENCE_SELECT_NEXT_SCANNABLE": {
         "key": [
-            "C"
+            "T"
         ]
     },
     "SIENCE_SCAN_PARAM_DECREASE_1": {
@@ -454,12 +494,12 @@
     },
     "STATION_ENGINEERING": {
         "key": [
-            "F4"
+            "F3"
         ]
     },
     "STATION_HELMS": {
         "key": [
-            "F2"
+            "F1"
         ]
     },
     "STATION_NEXT": {
@@ -468,21 +508,23 @@
         ]
     },
     "STATION_PREVIOUS": {
-        "key": null
-    },
-    "STATION_RELAY": {
         "key": [
-            "F6"
+            "`"
         ]
     },
-    "STATION_SCIENCE": {
+    "STATION_RELAY": {
         "key": [
             "F5"
         ]
     },
+    "STATION_SCIENCE": {
+        "key": [
+            "F4"
+        ]
+    },
     "STATION_WEAPONS": {
         "key": [
-            "F3"
+            "F2"
         ]
     },
     "TOPDOWN_LOCK_CAMERA": {
@@ -492,32 +534,32 @@
     },
     "TOPDOWN_NEXT_PLAYER_SHIP": {
         "key": [
-            "K"
+            "T"
         ]
     },
     "TOPDOWN_PAN_DOWN": {
         "key": [
-            "S"
+            "Down"
         ]
     },
     "TOPDOWN_PAN_LEFT": {
         "key": [
-            "A"
+            "Left"
         ]
     },
     "TOPDOWN_PAN_RIGHT": {
         "key": [
-            "D"
+            "Right"
         ]
     },
     "TOPDOWN_PAN_UP": {
         "key": [
-            "W"
+            "Up"
         ]
     },
     "TOPDOWN_PREVIOUS_PLAYER_SHIP": {
         "key": [
-            "J"
+            "R"
         ]
     },
     "TOPDOWN_TOGGLE_UI": {
@@ -526,9 +568,7 @@
         ]
     },
     "VOICE_ALL": {
-        "key": [
-            "Backspace"
-        ]
+        "key": null
     },
     "VOICE_SHIP": {
         "key": null
@@ -546,8 +586,8 @@
     },
     "WEAPONS_AIM_LOCK_TOGGLE": {
         "key": [
-        "/"
-      ]
+            "/"
+        ]
     },
     "WEAPONS_AIM_RIGHT": {
         "key": [
@@ -556,8 +596,8 @@
     },
     "WEAPONS_FIRE_TUBE1": {
         "key": [
-        "1"
-      ]
+            "1"
+        ]
     },
     "WEAPONS_FIRE_TUBE10": {
         "key": null
@@ -582,43 +622,41 @@
     },
     "WEAPONS_FIRE_TUBE2": {
         "key": [
-        "2"
-      ]
+            "2"
+        ]
     },
     "WEAPONS_FIRE_TUBE3": {
         "key": [
-        "3"
-      ]
+            "3"
+        ]
     },
     "WEAPONS_FIRE_TUBE4": {
         "key": [
-        "4"
-      ]
+            "4"
+        ]
     },
     "WEAPONS_FIRE_TUBE5": {
         "key": [
-        "5"
-      ]
+            "5"
+        ]
     },
     "WEAPONS_FIRE_TUBE6": {
         "key": [
-        "6"
-      ]
+            "6"
+        ]
     },
     "WEAPONS_FIRE_TUBE7": {
         "key": [
-        "7"
-      ]
+            "7"
+        ]
     },
     "WEAPONS_FIRE_TUBE8": {
         "key": [
-        "8"
-      ]
+            "8"
+        ]
     },
     "WEAPONS_FIRE_TUBE9": {
-        "key": [
-        "9"
-      ]
+        "key": null
     },
     "WEAPONS_FREQUENCY_DECREASE": {
         "key": [
@@ -632,8 +670,8 @@
     },
     "WEAPONS_LOAD_TUBE1": {
         "key": [
-        "1"
-      ]
+            "1"
+        ]
     },
     "WEAPONS_LOAD_TUBE10": {
         "key": null
@@ -658,43 +696,41 @@
     },
     "WEAPONS_LOAD_TUBE2": {
         "key": [
-        "2"
-      ]
+            "2"
+        ]
     },
     "WEAPONS_LOAD_TUBE3": {
         "key": [
-        "3"
-      ]
+            "3"
+        ]
     },
     "WEAPONS_LOAD_TUBE4": {
         "key": [
-        "4"
-      ]
+            "4"
+        ]
     },
     "WEAPONS_LOAD_TUBE5": {
         "key": [
-        "5"
-      ]
+            "5"
+        ]
     },
     "WEAPONS_LOAD_TUBE6": {
         "key": [
-        "6"
-      ]
+            "6"
+        ]
     },
     "WEAPONS_LOAD_TUBE7": {
         "key": [
-        "7"
-      ]
+            "7"
+        ]
     },
     "WEAPONS_LOAD_TUBE8": {
         "key": [
-        "8"
-      ]
+            "8"
+        ]
     },
     "WEAPONS_LOAD_TUBE9": {
-        "key": [
-        "9"
-      ]
+        "key": null
     },
     "WEAPONS_SELECT_EMP": {
         "key": [
@@ -703,12 +739,12 @@
     },
     "WEAPONS_SELECT_HOMING": {
         "key": [
-            "H"
+            "G"
         ]
     },
     "WEAPONS_SELECT_HVLI": {
         "key": [
-            "L"
+            "H"
         ]
     },
     "WEAPONS_SELECT_MINE": {
@@ -734,24 +770,26 @@
     },
     "WEAPONS_SHIELD_CALIBRATION_DECREASE": {
         "key": [
-        "["
-      ]
+            "["
+        ]
     },
     "WEAPONS_SHIELD_CALIBRATION_INCREASE": {
         "key": [
-        "]"
-      ]
+            "]"
+        ]
     },
     "WEAPONS_SHIELD_CALIBRATION_START": {
-        "key": [
-        "\\"
-      ]
+        "key": null
     },
     "WEAPONS_SUBSYSTEM_TARGET_NEXT": {
-        "key": null
+        "key": [
+            "0"
+        ]
     },
     "WEAPONS_SUBSYSTEM_TARGET_PREVIOUS": {
-        "key": null
+        "key": [
+            "9"
+        ]
     },
     "WEAPONS_TARGET_NEXT": {
         "key": [
