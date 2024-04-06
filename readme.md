@@ -33,42 +33,42 @@ _Note: These keybinds are for version of EmptyEpsilon greater than Version 20230
 
 - `Space` is reserved as a `Push-To-Talk` key, due to being a large key that can be comfortably pressed by either hand.
 - **Main Screen**
-  - `T` - Set view screen to "Target"
   - `R` - Set view screen to "Radar"
-  - `Y` - Set view screen to "Long Range Radar" (`Y` was chosen as it is adjacent to `T` and `R`)
+  - `T` - Set view screen to "Target"
+  - `Y` - Set view screen to "Long Range Radar" (`Y` was chosen as it is adjacent to `R` and `T`)
 - **Helm**
   - Combat Boost
     - `I` - Forward
     - `J` - Left
     - `L` - Right
     - This uses the same "spacing" as `W A S D`
-      - The player's left-hand ring-finger goes on "J" where most keyboards have a bump to indicate the home row
+      - The player's left-hand ring-finger goes on `J` where most keyboards have a bump to indicate the home row
       - The player's right hand stays on the arrow keys to adjust impulse and turning
   - Setting Impulse
-    - `V` - Set Impulse to 0% (Full Stop). "V" is chosen since it looks like a down arrow
     - `C` - Set Impulse to -100% (Full Reverse)
+    - `V` - Set Impulse to 0% (Full Stop). (`V` is chosen since it looks like a down arrow)
     - `B` - Set Impulse to 100% (Full Forward)
 - **Weapons**
+  - Targeting
+    - `T` - Next hostile target
+    - `Y` - Next target any (hostile or friendly) - `Y` for the "Y" in "any"
   - Beam Weapons
-      - `(` - Target previous subsystem
-      - `)` - Target next subsystem
-      - `-` - Decrease beam frequency
-      - `=` - Increase beam frequency
-      - All keybinds for beam-related actions are next to each other: `9 0 - =`
-    - Targeting
-      - `T` - Next hostile target
-      - `Y` - Next target any (hostile or friendly) - `Y` for the "Y" in "any"
-    - Missiles
-      - `H` - HVLI
-      - `G` - Guided Missile/Homing Missile
-      - `E` - EMP
-      - `N` - Nuke
-      - `M` - Mine
-      - `1`-`8` - Load/Fire Tube #
-    - Shields
-      - `[` - Decrease shield frequency
-      - `]` - Increase shield frequency
-      - `\` - ~~Start shield calibration~~ (removed to prevent players from accidentally pressing the key)
+    - All keybinds for beam-related actions are next to each other: `9 0 - =`
+    - `(` - Target previous subsystem
+    - `)` - Target next subsystem
+    - `-` - Decrease beam frequency
+    - `=` - Increase beam frequency
+  - Missiles
+    - `H` - HVLI
+    - `G` - Guided Missile/Homing Missile
+    - `E` - EMP
+    - `N` - Nuke
+    - `M` - Mine
+    - `1`-`8` - Load/Fire Tube #
+  - Shields
+    - `[` - Decrease shield frequency
+    - `]` - Increase shield frequency
+    - `\` - ~~Start shield calibration~~ (removed to prevent players from accidentally pressing the key)
 - **Engineering**
   - Select the system using the numbers or letters with left hand
     - Selecting Sub-System
