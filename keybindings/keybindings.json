@@ -76,6 +76,11 @@
             "H"
         ]
     },
+    "CONSOLE_KEY": {
+        "key": [
+            "F8"
+        ]
+    },
     "DEBUG_SHOW_FPS": {
         "key": [
             "F10"
@@ -89,17 +94,24 @@
     "ENGINEERING_COOLANT_DECREASE": {
         "key": [
             "-",
-            "PageDown"
+            "PageDown",
+            ";"
         ]
     },
     "ENGINEERING_COOLANT_INCREASE": {
         "key": [
             "=",
-            "PageUp"
+            "PageUp",
+            "'"
         ]
     },
-    "ENGINEERING_POWER_000": {
+    "ENGINEERING_COOLANT_SET": {
         "key": null
+    },
+    "ENGINEERING_POWER_000": {
+        "key": [
+            "0"
+        ]
     },
     "ENGINEERING_POWER_030": {
         "key": [
@@ -108,28 +120,38 @@
         ]
     },
     "ENGINEERING_POWER_050": {
-        "key": null
+        "key": [
+            "1"
+        ]
     },
     "ENGINEERING_POWER_100": {
         "key": [
             "Home",
             ".",
-            "\\"
+            "\\",
+            "2"
         ]
     },
     "ENGINEERING_POWER_150": {
         "key": [
-            "/"
+            "/",
+            "3"
         ]
     },
     "ENGINEERING_POWER_200": {
-        "key": null
+        "key": [
+            "4"
+        ]
     },
     "ENGINEERING_POWER_250": {
-        "key": null
+        "key": [
+            "5"
+        ]
     },
     "ENGINEERING_POWER_300": {
-        "key": null
+        "key": [
+            "6"
+        ]
     },
     "ENGINEERING_POWER_DECREASE": {
         "key": [
@@ -142,6 +164,9 @@
             "]",
             "Insert"
         ]
+    },
+    "ENGINEERING_POWER_SET": {
+        "key": null
     },
     "ENGINEERING_REPAIR_CREW_DOWN": {
         "key": [
@@ -170,59 +195,50 @@
     },
     "ENGINEERING_SELECT_SYSTEM_BEAM_WEAPONS": {
         "key": [
-            "B",
-            "2"
+            "B"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_FRONT_SHIELD": {
         "key": [
-            "F",
-            "8"
+            "F"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_IMPULSE": {
         "key": [
-            "I",
-            "5"
+            "I"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_JUMP_DRIVE": {
         "key": [
-            "J",
-            "7"
+            "J"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_MANEUVERING": {
         "key": [
             "M",
-            "O",
-            "4"
+            "O"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_MISSILE": {
         "key": [
             "N",
-            "H",
-            "3"
+            "H"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_REACTOR": {
         "key": [
-            "R",
-            "1"
+            "R"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_READ_SHIELD": {
         "key": [
-            "D",
             "G",
-            "9"
+            "D"
         ]
     },
     "ENGINEERING_SELECT_SYSTEM_WARP": {
         "key": [
-            "W",
-            "6"
+            "W"
         ]
     },
     "ENGINEERING_SELF_DESTRUCT_CANCEL": {
@@ -232,6 +248,60 @@
         "key": null
     },
     "ENGINEERING_SELF_DESTRUCT_START": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_BEAM_WEAPONS": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_FRONT_SHIELD": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_IMPULSE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_JUMP_DRIVE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_MANEUVERING": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_MISSILE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_REACTOR": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_READ_SHIELD": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_COOLANT_WARP": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_BEAM_WEAPONS": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_FRONT_SHIELD": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_IMPULSE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_JUMP_DRIVE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_MANEUVERING": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_MISSILE": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_REACTOR": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_READ_SHIELD": {
+        "key": null
+    },
+    "ENGINEERING_SET_SYSTEM_POWER_WARP": {
         "key": null
     },
     "ESCAPE": {
@@ -507,7 +577,7 @@
     },
     "STATION_PREVIOUS": {
         "key": [
-            "`"
+            "Left Shift"
         ]
     },
     "STATION_RELAY": {
@@ -768,12 +838,12 @@
     },
     "WEAPONS_SHIELD_CALIBRATION_DECREASE": {
         "key": [
-            ";"
+            "["
         ]
     },
     "WEAPONS_SHIELD_CALIBRATION_INCREASE": {
         "key": [
-            "'"
+            "]"
         ]
     },
     "WEAPONS_SHIELD_CALIBRATION_START": {
