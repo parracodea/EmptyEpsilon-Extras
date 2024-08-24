@@ -1,7 +1,5 @@
 # EmptyEpsilon Remapped Keybindings
 
-_Note: These keybinds are for version of EmptyEpsilon greater than Version 20230617, as `-` cannot be read as a keybind due to a SeriousProton bug. EmptyEpsilon deletes keybinds that it cannot read from the `keybindings.json` file. After downloading the newer version of EmptyEpsilon, so you will need to re-download [this `keybindings.json` file](./keybindings.json) instead of copy-pasting from the previous version._
-
 ## Guiding Principles
 
 - The letter of the keybind should match the name of the action
@@ -31,7 +29,7 @@ _Note: These keybinds are for version of EmptyEpsilon greater than Version 20230
 
 ## Explanation and Details
 
-- `Space` is reserved as a `Push-To-Talk` key, due to being a large key that can be comfortably pressed by either hand.
+- `Space` is reserved as a "Push-To-Talk" key, due to being a large key that can be comfortably pressed by either hand. `Left Alt` and `Left Control` would also make good "Push-To-Talk" keys.
 - **Main Screen**
   - `R` - Set view screen to "Radar"
   - `T` - Set view screen to "Target"
@@ -66,9 +64,9 @@ _Note: These keybinds are for version of EmptyEpsilon greater than Version 20230
     - `M` - Mine
     - `1`-`8` - Load/Fire Tube #
   - Shields
-    - `[` - Decrease shield frequency
-    - `]` - Increase shield frequency
-    - `\` - ~~Start shield calibration~~ (removed to prevent players from accidentally pressing the key)
+    - `;` - Decrease shield calibration frequency
+    - `'` - Increase shield calibration frequency
+    - `Return` (i.e. the `Enter` key) - ~~Start shield calibration~~ (removed to prevent players from accidentally pressing the key)
 - **Engineering**
   - Select the system using the numbers or letters with left hand
     - Selecting Sub-System
