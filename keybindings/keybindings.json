@@ -78,7 +78,8 @@
     },
     "CONSOLE_KEY": {
         "key": [
-            "F8"
+            "F8",
+            "`"
         ]
     },
     "DEBUG_SHOW_FPS": {
