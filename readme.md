@@ -1,8 +1,6 @@
-# EmptyEpsilon: Parracodea Vanilla Tweaks
+# EmptyEpsilon: Parracodea Vanilla Tweaks Mod
 
-_A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_
-
-Mod created by Parracodea (https://github.com/parracodea)
+_A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_ by [Parracodea](https://github.com/parracodea).
 
 ## To install this mod:
 
