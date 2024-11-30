@@ -1,4 +1,4 @@
-# EmptyEpsilon: Parracodea Vanilla Tweaks Mod
+# EmptyEpsilon: Vanilla Soft Serve Mod
 
 _A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_ by [Parracodea](https://github.com/parracodea).
 
@@ -11,7 +11,7 @@ _A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_ by [Parracodea]
         ```ini
         # options.ini
 
-        mod=parracodea-vanilla-tweaks
+        mod=vanilla-soft-serve
         ```
 2. In the `resources` folder, create a `mods` folder.
 3. Copy this folder to the `mods` folder. Your folders should look something like this. Not all files are shown.
@@ -26,7 +26,7 @@ _A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_ by [Parracodea]
     |   |
     |   +---mods
     |   |   |
-    |   |   +---parracodea-vanilla-tweaks
+    |   |   +---ee-vanilla-soft-serve
     |   |   |   |   readme.md (this file!)
     |   |   |   |
     |   |   |   +---gui
@@ -40,4 +40,4 @@ _A mod for [EmptyEpsilon](https://daid.github.io/EmptyEpsilon/)_ by [Parracodea]
     ```
 4. If the mod is installed correctly, the EmptyEpsilon logo should have a blue background:
 
-   ![EmptyEpsilon homescreen, with the "Parracodea Vanilla Tweaks" mod](./screenshots/homescreen.png)
+   ![EmptyEpsilon homescreen, with the "Vanilla Soft Serve" mod](./screenshots/homescreen.png)
